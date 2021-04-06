@@ -1,4 +1,6 @@
-# OpenCV-ShadowRemover
+# ShadowRemover
+
+OpenCV 사용
 
 ## 결과물 (Before - After)
 
